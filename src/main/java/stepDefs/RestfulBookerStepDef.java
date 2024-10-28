@@ -129,4 +129,13 @@ assertThat(responseForGetBooking.statusCode(), equalTo(sCode));
     public void iSendRequestToDeleteABooking() {
 
     }
+
+    @Given("bla")
+    public void bla() {
+        
+    }
+
+    @When("bla bla")
+    public void blaBla() {
+    }
 }
