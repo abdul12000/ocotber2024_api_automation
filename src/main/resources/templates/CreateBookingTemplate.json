@@ -1,0 +1,11 @@
+{
+  "firstname" : "Alice",
+  "lastname" : "Sebu",
+  "totalprice" : 1110,
+  "depositpaid" : false,
+  "bookingdates" : {
+    "checkin" : "2025-04-01",
+    "checkout" : "2025-05-01"
+  },
+  "additionalneeds" : "Burg Khalifah and Breakfast"
+}
